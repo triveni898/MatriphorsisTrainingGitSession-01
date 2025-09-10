@@ -8,4 +8,4 @@ let topicname ="conflict"
 console.log("Github session")
 console.log("Welcome to Github Session")
 console.log("Hi Nanna")
-console.log(another trainer)
+console.log(anothertrainer)
