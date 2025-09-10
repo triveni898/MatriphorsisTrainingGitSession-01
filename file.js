@@ -1,5 +1,5 @@
 console.log("Triveni")
-let trainer = "Setty Triveni"
+let trainer = "Setty Triveni D/O KrishnaMurthy"
 let subject ="Github"
 let duration ="2.5 hrs"
 let anothertrainer = "Yamini"
